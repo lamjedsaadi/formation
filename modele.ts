@@ -8,5 +8,6 @@ export class etudiant {
     info(){
         console.log("nom: "+this.nom+" age "+this.age );
     }
-constructor(nom:string){}
+    constructor(nom:string){}
+    constructor1(nom:string){}
 }
